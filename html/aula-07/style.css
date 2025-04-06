@@ -1,0 +1,5 @@
+a, button{
+    margin: 2vh;
+    display: block; /*Normalmente links ficam na mesma linha, portando uma das alternatinas é usar o display:block;
+*/
+} 
