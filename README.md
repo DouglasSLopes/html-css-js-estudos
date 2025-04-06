@@ -1,9 +1,11 @@
-## HTML, CSS e JAVASCRIPT
+## Estudos de HTML, CSS e JavaScript
 
-### Por que criei esse repositório?
+Este repositório contém os principais assuntos que venho (e irei) aprendendo sobre HTML, CSS e JavaScript.
 
-Simples, queria deixar salvados o que já aprendi em HTML, CSS e JavaScript.
+### Por que criei este repositório?
+
+Simples: quero manter registrado tudo o que já aprendi até agora nessas tecnologias, de forma organizada e acessível.
 
 ### Referência
 
-Estou utlizando o site [W3Schools](https://www.w3schools.com/) para estudar e aprender
+Estou utilizando o site [W3Schools](https://www.w3schools.com/) como fonte de estudo e aprendizado.
